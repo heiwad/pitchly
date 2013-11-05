@@ -1,0 +1,1 @@
+This is an MVP of a site that lets entrepreneus quickly build pitches for very rough ideas. Is your idea worth crafting a polished pitch? Hack a basic pitch together on Pitchly and find out!
